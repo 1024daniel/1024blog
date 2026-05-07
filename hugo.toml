@@ -11,3 +11,9 @@ theme = 'dream'
 [params]
 author = "Daniel Diana"
 avatar = "/imgs/american_cool_girl_with_classes.png"
+
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
