@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'dream'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+author = "Daniel Diana"
+avatar = "/imgs/american_cool_girl_with_classes.png"
